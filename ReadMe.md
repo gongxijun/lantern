@@ -64,10 +64,10 @@
 │   ├── nms.py   
 │   ├── nms.pyc   
 │   ├── objdetect.py   
-│   ├── producePostxt.py  　-->产生样本文件.
-│   ├── train_cascade.py  　-->训练
+│   ├── producePostxt.py  　-->产生样本文件.  
+│   ├── train_cascade.py  　-->训练  
 │   └── vec   
 │       └── pos.txt.vec   
 └── ReadMe.md  
 
-效果图：
+效果图：  
